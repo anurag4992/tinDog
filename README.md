@@ -1,2 +1,1 @@
-# tinDog
-Dog lover i'm
+TinDog Starting Files
